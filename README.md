@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/EEy7Qip0YZ27PPtC7y/source.gif" align="center" style="width: 70%" />
+<img src="https://media.giphy.com/media/EEy7Qip0YZ27PPtC7y/source.gif" align="center" style="width: 40%" />
 </div>  
 
 ### <div align="center">👋  Hey , my name is Rafael i´m a full-stack web developer originally from [Peru](https://goo.gl/maps/q8eFm3K7zMYDakJNA) 🇵🇪 grew up in [Germany](https://goo.gl/maps/veWfu3WKiXzBWQiq6)🇩🇪 and now mainly living in [Vienna](https://goo.gl/maps/rtdoeme3m2XgGpP67)🇦🇹 </div>  
