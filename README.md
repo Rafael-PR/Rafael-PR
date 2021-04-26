@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://szm-media.sueddeutsche.de/image/szm/33d4a53c0f19285af6421068958afe4f/640/image.jpeg?h=85b37d82c098fea4e9d112259398fa40&hv=1" align="center" style="width: 100%" />
+<img src="https://giphy.com/gifs/aquarela-hello-world-helloworld-EEy7Qip0YZ27PPtC7y" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">👋  Hey , my name is Rafael i´m a full-stack web developer originally from [Peru](https://goo.gl/maps/q8eFm3K7zMYDakJNA) 🇵🇪 grew up in [Germany](https://goo.gl/maps/veWfu3WKiXzBWQiq6)🇩🇪 and now mainly living in [Vienna](https://goo.gl/maps/rtdoeme3m2XgGpP67)🇦🇹 </div>  
