@@ -2,7 +2,7 @@
 <img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">👋  Hey , my name is Rafael i´m a full-stack web developer originally from [Peru](https://goo.gl/maps/q8eFm3K7zMYDakJNA) 🇵🇪 grew up in [Germany](https://goo.gl/maps/veWfu3WKiXzBWQiq6)🇩🇪 and now mainly living in [Vienna](https://goo.gl/maps/rtdoeme3m2XgGpP67)🇦🇹 </div>  
+### <div align="center"> ...my name is Rafael i´m a full-stack web developer originally from [Peru](https://goo.gl/maps/q8eFm3K7zMYDakJNA) 🇵🇪 grew up in [Germany](https://goo.gl/maps/veWfu3WKiXzBWQiq6)🇩🇪 and now mainly living in [Vienna](https://goo.gl/maps/rtdoeme3m2XgGpP67)🇦🇹 </div>  
   
 
 - 💚 Actually i´m working on my Mobile Health Project 
